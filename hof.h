@@ -4,7 +4,7 @@
 #include <stdbool.h>
 
 #define SIZE 4
-#define HOF_FILE "D:\\Works\\k\\score"
+#define HOF_FILE "score"
 #define DELIMITER ' '
 
 struct player {
